@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <manifest>
+     <remote name="github" fetch="https://github.com/riteshtijoriwala"/>
+     <default revision="refs/heads/master" remote="github" sync-j="2"/>
+     <project name="users" remote="github"/>
+     <project name="tasks" remote="github" path="projects/tasks-lib"/>
+ </manifest>

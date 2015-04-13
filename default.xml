@@ -3,5 +3,5 @@
      <remote name="github" fetch="https://github.com/riteshtijoriwala"/>
      <default revision="refs/heads/master" remote="github" sync-j="2"/>
      <project name="users" remote="github"/>
-     <project name="tasks" remote="github" path="projects/tasks-lib"/>
+     <project name="tasks" remote="github" path="users/projects/tasks-lib"/>
  </manifest>
